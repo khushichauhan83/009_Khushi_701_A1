@@ -1,0 +1,17 @@
+{
+  "name": "q8",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    
+      "server": "node index.js",
+       "test": "echo \"Running test script...\"",
+       "hello": "echo Hello!",
+      "backup": "node backup.js",
+      "info": "node info.js"
+  }
+}

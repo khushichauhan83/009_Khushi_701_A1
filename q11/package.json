@@ -1,0 +1,19 @@
+{
+  "name": "kcisweekend",
+  "version": "1.0.0",
+  "description": "checks if a date is weekend",
+  "keywords": [
+    "date",
+    "weekends"
+  ],
+  "license": "ISC",
+  "author": "khushi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "kcisweekend": "^1.0.0"
+  }
+}
